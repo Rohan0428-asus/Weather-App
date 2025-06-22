@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background: url('/bg.jpg') no-repeat center center fixed;
+  background-size: cover;
+  color: white;
+  text-align: center;
+}
+
+.app {
+  margin-top: 50px;
+}
+
+input {
+  padding: 12px;
+  width: 15%;
+  border-radius: 10px;
+  border: none;
+  font-size: 16px;
+}
+
+button {
+  margin-top: 10px;
+  padding: 12px 24px;
+  background-color: white;
+  color: purple;
+  font-weight: bold;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+footer {
+  margin-top: 40px;
+  font-size: 0.9em;
+  color: #ccc;
+}
+
+.loading {
+  color: yellow;
+}
+
+.error {
+  color: red;
+}
+
